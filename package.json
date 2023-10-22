@@ -6,7 +6,6 @@
     "scripts": {
         "start": "node app.js"
     },
-    "author": "Fog Network",
     "license": "MIT",
     "dependencies": {
         "acorn-hammerhead": "^0.5.0",
